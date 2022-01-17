@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>benign (8).png</filename>
+	<path>G:\important folder\alexandria engineering\dr amgad\AI with python\python programs\classification\kagglecatsanddogs_3367a\second project\New folder (8)\breast ultrasound\Dataset_BUSI_with_GT\yolodataset\test\benign (8).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>617</width>
+		<height>585</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>185</ymin>
+			<xmax>380</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
