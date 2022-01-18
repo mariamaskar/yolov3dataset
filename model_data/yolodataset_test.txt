@@ -1,6 +1,6 @@
-G:\important folder\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/benign (8).png 289,185,380,242,0
-G:\important folder\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/benign (9).png 107,67,420,310,0
-G:\important folder\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/benign (10).png 26,70,251,265,0
-G:\important folder\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/malignant (6).png 138,174,218,274,1
-G:\important folder\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/malignant (7).png 125,181,206,271,1
-G:\important folder\TensorFlow-2.x-YOLOv3-master/custom_dataset/test/malignant (8).png 118,176,200,274,1
+yolov3dataset/custom_dataset/test/benign (8).png 289,185,380,242,0
+yolov3dataset/custom_dataset/test/benign (9).png 107,67,420,310,0
+yolov3dataset/custom_dataset/test/benign (10).png 26,70,251,265,0
+yolov3dataset/custom_dataset/test/malignant (6).png 138,174,218,274,1
+yolov3dataset/custom_dataset/test/malignant (7).png 125,181,206,271,1
+yolov3dataset/custom_dataset/test/malignant (8).png 118,176,200,274,1
