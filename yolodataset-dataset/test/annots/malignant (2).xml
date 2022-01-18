@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>malignant (7).png</filename>
-	<path>G:\important folder\alexandria engineering\dr amgad\AI with python\python programs\classification\kagglecatsanddogs_3367a\second project\New folder (8)\breast ultrasound\Dataset_BUSI_with_GT\yolodataset\test\malignant (7).png</path>
+	<path>yolov3dataset\custom_dataset\test\malignant (7).png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
