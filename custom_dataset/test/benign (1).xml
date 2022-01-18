@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>benign (8).png</filename>
-	<path>yolov3dataset/custom_dataset\test\benign (8).png</path>
+	<path>yolov3dataset\custom_dataset\test\benign (8).png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
