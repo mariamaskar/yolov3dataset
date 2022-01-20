@@ -12,7 +12,7 @@
 # YOLO options
 YOLO_TYPE                   = "yolov3" # yolov4 or yolov3
 YOLO_FRAMEWORK              = "tf" # "tf" or "trt"
-YOLO_V3_WEIGHTS             = "yolov3dataset/model_data/yolov3.weights"
+YOLO_V3_WEIGHTS             = "Object-Detection---Yolov3/model/yolov3.weights"
 
 YOLO_V3_TINY_WEIGHTS        = "yolov3dataset/model_data/yolov3-tiny.weights"
 
