@@ -1,6 +1,7 @@
-yolov3dataset/custom_dataset/test/benign (1).png 289,185,380,242,0
-yolov3dataset/custom_dataset/test/benign (2).png 107,67,420,310,0
-yolov3dataset/custom_dataset/test/benign (3).png 26,70,251,265,0
-yolov3dataset/custom_dataset/test/malignant (1).png 138,174,218,274,1
-yolov3dataset/custom_dataset/test/malignant (2).png 125,181,206,271,1
-yolov3dataset/custom_dataset/test/malignant (3).png 118,176,200,274,1
+yolov3dataset/custom_dataset/test/benign (1).jpg 493,462,713,565,0
+yolov3dataset/custom_dataset/test/benign (2).jpg 1017,767,1294,829,0
+yolov3dataset/custom_dataset/test/benign (3).jpg 125,55,196,92,0
+yolov3dataset/custom_dataset/test/malignant (1).jpg 87,64,223,128,1
+yolov3dataset/custom_dataset/test/malignant (2).jpg 65,124,118,129,1
+yolov3dataset/custom_dataset/test/malignant (3).jpg 109,113,186,129,1
+
