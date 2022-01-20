@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>benign (2).jpg</filename>
-	<path>G:\important folder\TensorFlow-2.x-YOLOv3-master\colored images\train\benign (2).jpg</path>
+	<path>yolov3dataset\custom_dataset\train\benign (2).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
