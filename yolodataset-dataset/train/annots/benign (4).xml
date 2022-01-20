@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>benign (4).jpg</filename>
+	<path>yolov3dataset\custom_dataset\train\benign (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>976</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>413</ymin>
+			<xmax>749</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

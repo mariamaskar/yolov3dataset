@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>malignant (2).jpg</filename>
+	yolov3dataset\custom_dataset\train\malignant (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>malignant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>104</ymin>
+			<xmax>167</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>
