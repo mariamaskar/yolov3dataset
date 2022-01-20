@@ -53,7 +53,7 @@ def load_yolo_weights(model, weights_file):
                 # darknet weights: [beta, gamma, mean, variance]
                 bn_weights = np.fromfile(wf, dtype=np.float32, count=4 * filters)
                 # tf weights: [gamma, beta, mean, variance]
-                bn_weights = bn_weights.reshape((4,filters))[[1, 0, 2, 3]]
+                bn_weights = bn_weights.reshape((1,filters))[[1, 0]]
                 bn_layer = model.get_layer(bn_layer_name)
                 j += 1
             else:
