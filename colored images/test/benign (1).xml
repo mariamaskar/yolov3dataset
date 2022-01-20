@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>benign (1).jpg</filename>
+	<path>G:\important folder\TensorFlow-2.x-YOLOv3-master\colored images\test\benign (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>797</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>benign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>462</ymin>
+			<xmax>713</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>
